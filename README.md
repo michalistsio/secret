@@ -1,6 +1,4 @@
 # secret
 Thats a secret
-Please paste  python code's outcome under the line and push your changes
+Please paste the result below this line
 ------------------------------------------------------------------------
-
-Giorgos_3659
